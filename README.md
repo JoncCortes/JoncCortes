@@ -3,8 +3,6 @@
 
 - 🔭 Atualmente estou em busca de uma nova oportunidade de emprego.
 - 🌱 Estudando Engenharia de Software e Python.
-- 😄 Pronouns: Ele/Dele
--->
 
  <div>
   <a href="https://github.com/JoncCortes">

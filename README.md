@@ -2,7 +2,7 @@
 
 
 - 🔭 Atualmente estou em busca de uma nova oportunidade de emprego.
-- 🌱 Estudando Engenharia de Software e Java Back End.
+- 🌱 Estudando Engenharia de Software, Python e Django.
 
  <div>
   <a href="https://github.com/JoncCortes">
